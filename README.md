@@ -3,6 +3,6 @@ I am an **Honors Computer Science** student at the **New Jersey Institute of Tec
 
 - 🧠  I am currently learning Tensorflow and MongoDB
 - 🤝 I like to meet new people
-- 💻 I am an aspiring software engineer with interests in backend development, DevSecOps, data engineering, and cloud engineering. 
+- 💻 I am an aspiring software engineer with interests in full stack development, DevSecOps, data engineering, and cloud engineering. 
 
 Check out my portfolio site [here](https://haleynpatel.github.io/) !
