@@ -6,3 +6,5 @@ I am an **Honors Computer Science** student at the **New Jersey Institute of Tec
 - 💻 I am an aspiring software engineer with interests in full stack development, DevSecOps, data engineering, and cloud engineering. 
 
 Check out my portfolio site [here](https://haleynpatel.github.io/) !
+
+🎨 Fun fact: I have a **pixel art** page [here](https://ourworldofpixels.com/rex)
