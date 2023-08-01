@@ -7,4 +7,4 @@ I am an **Honors Computer Science** student at the **New Jersey Institute of Tec
 
 Check out my portfolio site [here](https://haleynpatel.github.io/) !
 
-🎨 Fun fact: I have a **pixel art** page [here](https://ourworldofpixels.com/rex)
+🎨 Fun fact: I have a **pixel art** page [here](https://ourworldofpixels.com/rex).
