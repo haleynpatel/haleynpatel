@@ -1,9 +1,9 @@
 ### Hi, 
-I am a **Computer Science** student at the **New Jersey Institute of Technology**.  
+I am studying **Computer Science** with a minor in **Applied Mathematics** student @ **NJIT Honors College**.  
 
-Starting May 2024, I will be working at **Reddit** as a Software Engineer Intern.  
+Starting May 2024, I will be working @ **Reddit** as a Software Engineer Intern.  
 
-Previously at Prudential, UPS, Plymouth Rock
+Previously @ Prudential, UPS, Plymouth Rock
 
-Check out my portfolio site [here](https://haleynpatel.github.io/) !
+Check out my portfolio site [here](https://haleynpatel.com/) !
 
